@@ -26,6 +26,7 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 Tools for running AI models locally, self-hosted solutions, and privacy-focused alternatives.
 
 <!-- TOOLS:local-ai -->
+- **[Hugging Face](tools/hugging-face.md)** - AI community platform with 1M+ models and Transformers library for local model execution ([Website](https://huggingface.co/))
 - **[LM Studio](tools/lm-studio.md)** - Desktop app for running LLMs locally with OpenAI-compatible API and developer SDKs ([Website](https://lmstudio.ai/))
 - **[Ollama](tools/ollama.md)** - Run large language models locally with a simple CLI and API ([Website](https://ollama.com))
 - **[vLLM](tools/vllm.md)** - High-performance LLM inference and serving library with PagedAttention and OpenAI-compatible API ([GitHub](https://github.com/vllm-project/vllm))
@@ -82,6 +83,7 @@ AI-powered code review, testing automation, and quality assurance tools.
 Tools for AI-assisted documentation generation, knowledge management, and learning resources.
 
 <!-- TOOLS:documentation -->
+- **[NotebookLM](tools/notebooklm.md)** - Google's AI research assistant that transforms documents into summaries, podcasts, and mind maps ([Website](https://notebooklm.google))
 <!-- /TOOLS:documentation -->
 
 ### DevOps & Automation

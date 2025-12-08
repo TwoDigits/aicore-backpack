@@ -28,6 +28,7 @@ Central platforms for AI model discovery, sharing, and collaboration.
 
 <!-- TOOLS:platforms -->
 - **[Hugging Face](tools/hugging-face.md)** - AI community platform with 1M+ models and Transformers library for local model execution ([Website](https://huggingface.co/))
+- **[Teamwork Graph](tools/teamwork-graph.md)** - Atlassian's unified data layer with GraphQL API for AI-driven insights across apps ([Website](https://developer.atlassian.com/platform/teamwork-graph/))
 <!-- /TOOLS:platforms -->
 
 ### Local & Self-Hosted AI

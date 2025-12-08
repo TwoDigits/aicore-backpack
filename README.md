@@ -26,6 +26,8 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 Tools for running AI models locally, self-hosted solutions, and privacy-focused alternatives.
 
 <!-- TOOLS:local-ai -->
+- **[LM Studio](tools/lm-studio.md)** - Desktop app for running LLMs locally with OpenAI-compatible API and developer SDKs ([Website](https://lmstudio.ai/))
+- **[Ollama](tools/ollama.md)** - Run large language models locally with a simple CLI and API ([Website](https://ollama.com))
 - **[vLLM](tools/vllm.md)** - High-performance LLM inference and serving library with PagedAttention and OpenAI-compatible API ([GitHub](https://github.com/vllm-project/vllm))
 <!-- /TOOLS:local-ai -->
 

@@ -5,7 +5,7 @@
 - **URL**: https://github.com/thorstenmaier/tomcat-ai-enabled
 - **GitHub**: https://github.com/thorstenmaier/tomcat-ai-enabled
 - **License**: Apache-2.0
-- **Category**: Experimental & Research
+- **Category**: Methodologies & Approaches
 
 ## Description
 

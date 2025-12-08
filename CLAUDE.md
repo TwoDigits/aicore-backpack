@@ -40,10 +40,13 @@ Analyzes and reorganizes tool categorizations:
 
 Tools are organized by these categories (defined in README.md):
 - `code-assistants` - IDE extensions and coding enhancements
+- `agent-frameworks` - Frameworks and libraries for building AI agents
+- `platforms` - Central platforms for AI model discovery and collaboration
 - `local-ai` - Local/self-hosted AI solutions
 - `mcp` - MCP servers and integrations
 - `methodologies` - Structured methodologies for AI-assisted development
 - `prompt-engineering` - Prompt tools and management
+- `claude-code` - Tools specifically for Claude Code
 - `code-review` - AI-powered review and testing
 - `documentation` - Docs generation and knowledge tools
 - `devops` - CI/CD and automation

@@ -19,14 +19,22 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 
 <!-- TOOLS:agent-frameworks -->
 - **[Deep Agents](tools/deep-agents.md)** - Open-source agent framework with planning, sub-agents, and MCP integration ([GitHub](https://github.com/langchain-ai/deepagents))
+- **[HumanLayer SDK](tools/humanlayer-sdk.md)** - API and SDK for human-in-the-loop approval workflows in AI agent systems ([GitHub](https://github.com/humanlayer/humanlayer))
 <!-- /TOOLS:agent-frameworks -->
+
+### AI Platforms & Hubs
+
+Central platforms for AI model discovery, sharing, and collaboration.
+
+<!-- TOOLS:platforms -->
+- **[Hugging Face](tools/hugging-face.md)** - AI community platform with 1M+ models and Transformers library for local model execution ([Website](https://huggingface.co/))
+<!-- /TOOLS:platforms -->
 
 ### Local & Self-Hosted AI
 
 Tools for running AI models locally, self-hosted solutions, and privacy-focused alternatives.
 
 <!-- TOOLS:local-ai -->
-- **[Hugging Face](tools/hugging-face.md)** - AI community platform with 1M+ models and Transformers library for local model execution ([Website](https://huggingface.co/))
 - **[LM Studio](tools/lm-studio.md)** - Desktop app for running LLMs locally with OpenAI-compatible API and developer SDKs ([Website](https://lmstudio.ai/))
 - **[Ollama](tools/ollama.md)** - Run large language models locally with a simple CLI and API ([Website](https://ollama.com))
 - **[vLLM](tools/vllm.md)** - High-performance LLM inference and serving library with PagedAttention and OpenAI-compatible API ([GitHub](https://github.com/vllm-project/vllm))
@@ -37,6 +45,7 @@ Tools for running AI models locally, self-hosted solutions, and privacy-focused 
 Model Context Protocol servers, integrations, and extensions for Claude and other AI assistants.
 
 <!-- TOOLS:mcp -->
+- **[Context7](tools/context7.md)** - MCP server delivering up-to-date, version-specific library documentation directly into LLM prompts ([GitHub](https://github.com/upstash/context7))
 - **[Kiro Powers](tools/kiro-powers.md)** - Dynamic MCP tool bundles with framework expertise that activate contextually ([Website](https://kiro.dev/blog/introducing-powers/))
 <!-- /TOOLS:mcp -->
 
@@ -45,9 +54,11 @@ Model Context Protocol servers, integrations, and extensions for Claude and othe
 Structured methodologies and frameworks for AI-assisted software development.
 
 <!-- TOOLS:methodologies -->
+- **[12-Factor Agents](tools/12-factor-agents.md)** - Design principles for building reliable, production-ready LLM-powered applications ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - **[BMad Method](tools/bmad-method.md)** - AI-driven agile framework with specialized agents for development workflows ([GitHub](https://github.com/bmad-code-org/BMAD-METHOD))
 - **[Long-Running Agent Harness](tools/long-running-agent-harness.md)** - Methodology for AI agents to work across multiple context windows with progress tracking ([Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents))
 - **[Spec Kit](tools/spec-kit.md)** - Spec-driven development toolkit where specifications become executable implementations ([GitHub](https://github.com/github/spec-kit))
+- **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Reference patterns for making 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
 <!-- /TOOLS:methodologies -->
 
 ### Prompt Engineering & Management
@@ -66,7 +77,9 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 - **[Claude Code Plugins](tools/claude-code-plugins.md)** - Official plugin system for extending Claude Code with commands, agents, skills, and MCP servers ([Docs](https://code.claude.com/docs/en/plugins))
 - **[Claude Code Tresor](tools/claude-code-tresor.md)** - Collection of 141 professional-grade agents, skills, and commands for Claude Code ([GitHub](https://github.com/alirezarezvani/claude-code-tresor))
 - **[Claude Trace](tools/claude-trace.md)** - Logging and visualization tool that records all Claude Code interactions ([GitHub](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace))
+- **[CodeLayer](tools/codelayer.md)** - Open-source IDE built on Claude Code for orchestrating AI coding agents in complex codebases ([Website](https://www.humanlayer.dev/))
 - **[Happy Coder](tools/happy-coder.md)** - Mobile and web client for remote access to Claude Code with end-to-end encryption ([GitHub](https://github.com/slopus/happy))
+- **[Hugging Face Skills](tools/huggingface-skills.md)** - LLM fine-tuning through natural language commands in coding agents ([Blog](https://huggingface.co/blog/hf-skills-training))
 - **[Super Claude Kit](tools/super-claude-kit.md)** - Persistence layer that adds cross-session context memory to Claude Code ([GitHub](https://github.com/arpitnath/super-claude-kit))
 - **[TACHES CC Resources](tools/taches-cc-resources.md)** - 27 commands, 7 skills, and 3 agents for structured AI-assisted development workflows ([GitHub](https://github.com/glittercowboy/taches-cc-resources))
 <!-- /TOOLS:claude-code -->
@@ -113,9 +126,7 @@ Open-source implementations and alternatives to popular commercial AI tools.
 Cutting-edge tools, research projects, and experimental AI applications.
 
 <!-- TOOLS:experimental -->
-- **[Hugging Face Skills](tools/huggingface-skills.md)** - LLM fine-tuning through natural language commands in coding agents ([Blog](https://huggingface.co/blog/hf-skills-training))
 - **[METR Task Horizons](tools/metr-task-horizons.md)** - Research measuring AI agent task completion time horizons with open-source evaluation infrastructure ([Website](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/))
-- **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Proof of concept showing how to make 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
 <!-- /TOOLS:experimental -->
 
 ---

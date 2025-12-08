@@ -5,7 +5,7 @@
 - **URL**: https://huggingface.co/blog/hf-skills-training
 - **GitHub**: https://github.com/huggingface-skills/hf-llm-trainer
 - **License**: Apache 2.0
-- **Category**: Experimental & Research
+- **Category**: Claude Code
 
 ## Description
 

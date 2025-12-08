@@ -5,7 +5,7 @@
 - **URL**: https://huggingface.co/
 - **GitHub**: https://github.com/huggingface
 - **License**: Various (platform hosts open-source models with different licenses)
-- **Category**: Local & Self-Hosted AI
+- **Category**: AI Platforms & Hubs
 
 ## Description
 

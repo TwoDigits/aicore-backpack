@@ -76,6 +76,7 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 
 <!-- TOOLS:claude-code -->
 - **[Claude Code Plugins](tools/claude-code-plugins.md)** - Official plugin system for extending Claude Code with commands, agents, skills, and MCP servers ([Docs](https://code.claude.com/docs/en/plugins))
+- **[Claude Code Sandboxing](tools/claude-code-sandboxing.md)** - Built-in filesystem and network isolation for safer autonomous AI agent execution ([Docs](https://code.claude.com/docs/en/sandboxing))
 - **[Claude Code Tresor](tools/claude-code-tresor.md)** - Collection of 141 professional-grade agents, skills, and commands for Claude Code ([GitHub](https://github.com/alirezarezvani/claude-code-tresor))
 - **[Claude Trace](tools/claude-trace.md)** - Logging and visualization tool that records all Claude Code interactions ([GitHub](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace))
 - **[CodeLayer](tools/codelayer.md)** - Open-source IDE built on Claude Code for orchestrating AI coding agents in complex codebases ([Website](https://www.humanlayer.dev/))

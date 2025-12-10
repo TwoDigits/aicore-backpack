@@ -56,6 +56,7 @@ Structured methodologies and frameworks for AI-assisted software development.
 
 <!-- TOOLS:methodologies -->
 - **[12-Factor Agents](tools/12-factor-agents.md)** - Design principles for building reliable, production-ready LLM-powered applications ([GitHub](https://github.com/humanlayer/12-factor-agents))
+- **[Agent OS](tools/agent-os.md)** - Structured specifications and workflows that transform AI coding agents into productive developers ([GitHub](https://github.com/buildermethods/agent-os))
 - **[BMad Method](tools/bmad-method.md)** - AI-driven agile framework with specialized agents for development workflows ([GitHub](https://github.com/bmad-code-org/BMAD-METHOD))
 - **[Long-Running Agent Harness](tools/long-running-agent-harness.md)** - Methodology for AI agents to work across multiple context windows with progress tracking ([Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents))
 - **[Spec Kit](tools/spec-kit.md)** - Spec-driven development toolkit where specifications become executable implementations ([GitHub](https://github.com/github/spec-kit))

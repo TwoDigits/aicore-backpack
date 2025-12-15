@@ -47,6 +47,7 @@ Model Context Protocol servers, integrations, and extensions for Claude and othe
 
 <!-- TOOLS:mcp -->
 - **[Context7](tools/context7.md)** - MCP server delivering up-to-date, version-specific library documentation directly into LLM prompts ([GitHub](https://github.com/upstash/context7))
+- **[DevSkills](tools/devskills.md)** - MCP server for sharing AI agent skills across coding tools like Claude Code, Cursor, and Copilot ([GitHub](https://github.com/mk0e/devskills))
 - **[Kiro Powers](tools/kiro-powers.md)** - Dynamic MCP tool bundles with framework expertise that activate contextually ([Website](https://kiro.dev/blog/introducing-powers/))
 <!-- /TOOLS:mcp -->
 

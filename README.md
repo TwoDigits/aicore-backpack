@@ -6,20 +6,15 @@ A curated collection of tools, methodologies, research, and resources for softwa
 
 ## Categories
 
-### Code Assistants & Extensions
-
-IDE extensions, editor plugins, and tools that enhance your coding experience with AI capabilities.
-
-<!-- TOOLS:code-assistants -->
-<!-- /TOOLS:code-assistants -->
-
 ### Agent Frameworks
 
 Frameworks and libraries for building AI agents with planning, delegation, and autonomous capabilities.
 
 <!-- TOOLS:agent-frameworks -->
+- **[CrewAI](tools/crewai.md)** - Multi-agent platform with role-based agent design for collaborative AI workflows ([GitHub](https://github.com/crewAIInc/crewAI))
 - **[Deep Agents](tools/deep-agents.md)** - Open-source agent framework with planning, sub-agents, and MCP integration ([GitHub](https://github.com/langchain-ai/deepagents))
 - **[HumanLayer SDK](tools/humanlayer-sdk.md)** - API and SDK for human-in-the-loop approval workflows in AI agent systems ([GitHub](https://github.com/humanlayer/humanlayer))
+- **[LangGraph](tools/langgraph.md)** - Framework for building stateful, multi-actor AI agents with cyclic workflows and human-in-the-loop support ([GitHub](https://github.com/langchain-ai/langgraph))
 <!-- /TOOLS:agent-frameworks -->
 
 ### AI Platforms & Hubs
@@ -50,6 +45,14 @@ Model Context Protocol servers, integrations, and extensions for Claude and othe
 - **[DevSkills](tools/devskills.md)** - MCP server for sharing AI agent skills across coding tools like Claude Code, Cursor, and Copilot ([GitHub](https://github.com/mk0e/devskills))
 - **[Kiro Powers](tools/kiro-powers.md)** - Dynamic MCP tool bundles with framework expertise that activate contextually ([Website](https://kiro.dev/blog/introducing-powers/))
 <!-- /TOOLS:mcp -->
+
+### Observability
+
+Tools for monitoring, tracing, and debugging LLM applications and AI agents.
+
+<!-- TOOLS:observability -->
+- **[LangSmith](tools/langsmith.md)** - Observability platform for debugging, monitoring, and understanding LLM application behavior ([Website](https://www.langchain.com/langsmith))
+<!-- /TOOLS:observability -->
 
 ### Methodologies & Approaches
 
@@ -89,13 +92,6 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 - **[TACHES CC Resources](tools/taches-cc-resources.md)** - 27 commands, 7 skills, and 3 agents for structured AI-assisted development workflows ([GitHub](https://github.com/glittercowboy/taches-cc-resources))
 <!-- /TOOLS:claude-code -->
 
-### Code Review & Testing
-
-AI-powered code review, testing automation, and quality assurance tools.
-
-<!-- TOOLS:code-review -->
-<!-- /TOOLS:code-review -->
-
 ### Documentation & Knowledge
 
 Tools for AI-assisted documentation generation, knowledge management, and learning resources.
@@ -103,20 +99,6 @@ Tools for AI-assisted documentation generation, knowledge management, and learni
 <!-- TOOLS:documentation -->
 - **[NotebookLM](tools/notebooklm.md)** - Google's AI research assistant that transforms documents into summaries, podcasts, and mind maps ([Website](https://notebooklm.google))
 <!-- /TOOLS:documentation -->
-
-### DevOps & Automation
-
-AI-enhanced CI/CD, infrastructure, and automation tools.
-
-<!-- TOOLS:devops -->
-<!-- /TOOLS:devops -->
-
-### Security & Analysis
-
-AI-powered security scanning, code analysis, and vulnerability detection.
-
-<!-- TOOLS:security -->
-<!-- /TOOLS:security -->
 
 ### Open Source Alternatives
 

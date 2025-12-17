@@ -1,8 +1,8 @@
 # AICore Backpack
 
-A curated list of tools and methods for your daily life as a software developer in the times of GenAI.
+A curated collection of tools, methodologies, research, and resources for software developers in the age of GenAI.
 
-> **Note:** This is not a list of essential AI tools every developer must know. Instead, it's a collection of cool tools, extensions, open-source alternatives, and interesting links to enhance your AI-powered development workflow.
+> **Note:** This is not a list of essential AI tools every developer must know. Instead, it's a collection of cool tools, extensions, open-source alternatives, videos, research papers, and interesting links to enhance your AI-powered development workflow.
 
 ## Categories
 

@@ -141,6 +141,7 @@ Cutting-edge tools, research projects, and experimental AI applications.
 
 <!-- TOOLS:experimental -->
 - **[METR Task Horizons](tools/metr-task-horizons.md)** - Research measuring AI agent task completion time horizons with open-source evaluation infrastructure ([Website](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/))
+- **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)** - Benchmark revealing that 11 of 13 LLMs claiming 128K+ token support drop below 50% performance at 32K tokens when semantic understanding is required instead of literal matching.
 <!-- /TOOLS:experimental -->
 
 ---

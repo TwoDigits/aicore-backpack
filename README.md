@@ -126,6 +126,15 @@ Open-source implementations and alternatives to popular commercial AI tools.
 - **[PageLM](tools/pagelm.md)** - Open-source NotebookLM alternative that transforms study materials into interactive learning experiences ([GitHub](https://github.com/CaviraOSS/PageLM))
 <!-- /TOOLS:open-source -->
 
+### AI Mindset
+
+Videos, talks, and resources about AI mindset, ROI measurement, and successful AI adoption in software engineering.
+
+<!-- VIDEOS:ai-mindset -->
+- **[Can you prove AI ROI in Software Eng?](https://www.youtube.com/watch?v=JvosMkuNxF8)** - Stanford study with 120k+ developers shows why identical AI tools deliver ~0% lift in some orgs and 25%+ in others. Includes ROI playbook and metrics framework. (Yegor Denisov-Blanch, Stanford)
+- **[No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)** - How to use AI coding agents effectively in 300k+ LOC production codebases using "frequent intentional compaction" and context engineering techniques. (Dex Horthy, HumanLayer)
+<!-- /VIDEOS:ai-mindset -->
+
 ### Experimental & Research
 
 Cutting-edge tools, research projects, and experimental AI applications.

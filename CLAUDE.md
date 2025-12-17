@@ -49,6 +49,7 @@ Tools are organized by these categories (defined in README.md):
 - `claude-code` - Tools specifically for Claude Code
 - `code-review` - AI-powered review and testing
 - `documentation` - Docs generation and knowledge tools
+- `ai-mindset` - Videos and talks about AI mindset, ROI, and adoption
 - `devops` - CI/CD and automation
 - `security` - Security scanning and analysis
 - `open-source` - Open-source alternatives

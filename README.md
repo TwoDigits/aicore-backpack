@@ -1,5 +1,9 @@
 # AICore Backpack
 
+<p align="center">
+  <img src="assets/backpack-hero.jpg" alt="AICore Backpack" width="400">
+</p>
+
 A curated collection of tools, methodologies, research, and resources for software developers in the age of GenAI.
 
 > **Note:** This is not a beginner's guide to AI tools. If you're already familiar with the basics (ChatGPT, Copilot, Cursor, etc.), this collection goes deeper: cool tools, extensions, open-source alternatives, videos, research papers, and interesting links to level up your AI-powered development workflow.

@@ -121,6 +121,7 @@ Videos, talks, and resources about AI mindset, ROI measurement, and successful A
 - **[Can you prove AI ROI in Software Eng?](https://www.youtube.com/watch?v=JvosMkuNxF8)** - Stanford study with 120k+ developers shows why identical AI tools deliver ~0% lift in some orgs and 25%+ in others. Includes ROI playbook and metrics framework. (Yegor Denisov-Blanch, Stanford)
 - **[Does AI Actually Boost Developer Productivity?](https://www.youtube.com/watch?v=tbDDYKRFjhk)** - Stanford study of 100k developers reveals ~20% average productivity boost, but high variance: effectiveness depends on task complexity, codebase maturity, language popularity, and codebase size. (Yegor Denisov-Blanch, Stanford)
 - **[No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)** - How to use AI coding agents effectively in 300k+ LOC production codebases using "frequent intentional compaction" and context engineering techniques. (Dex Horthy, HumanLayer)
+- **[AI and Junior Developers: Why the Job Will Change But Not Disappear](https://charlesanthonybrowne.medium.com/ai-and-junior-developers-why-the-job-will-change-but-not-disappear-95545e29e820)** - Historical analysis comparing AI's impact on junior developers to Engels' Pause during the Industrial Revolution, with practical advice for engineers at all levels. (Charles Anthony Browne)
 <!-- /VIDEOS:ai-mindset -->
 
 ### Experimental & Research

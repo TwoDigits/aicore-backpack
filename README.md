@@ -95,6 +95,7 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 - **[Hugging Face Skills](tools/huggingface-skills.md)** - LLM fine-tuning through natural language commands in coding agents ([Blog](https://huggingface.co/blog/hf-skills-training))
 - **[Super Claude Kit](tools/super-claude-kit.md)** - Persistence layer that adds cross-session context memory to Claude Code ([GitHub](https://github.com/arpitnath/super-claude-kit))
 - **[TACHES CC Resources](tools/taches-cc-resources.md)** - 27 commands, 7 skills, and 3 agents for structured AI-assisted development workflows ([GitHub](https://github.com/glittercowboy/taches-cc-resources))
+- **[The Definitive Guide to Claude Code](https://jpcaparas.medium.com/the-definitive-guide-to-claude-code-from-first-install-to-production-workflows-6d37a6d33e40)** - Comprehensive practitioner's guide covering installation, the Explore-Plan-Code-Commit workflow, context engineering with CLAUDE.md, and production patterns. (JP Caparas)
 <!-- /TOOLS:claude-code -->
 
 ### Documentation & Knowledge
@@ -122,6 +123,7 @@ Videos, talks, and resources about AI mindset, ROI measurement, and successful A
 - **[Does AI Actually Boost Developer Productivity?](https://www.youtube.com/watch?v=tbDDYKRFjhk)** - Stanford study of 100k developers reveals ~20% average productivity boost, but high variance: effectiveness depends on task complexity, codebase maturity, language popularity, and codebase size. (Yegor Denisov-Blanch, Stanford)
 - **[No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)** - How to use AI coding agents effectively in 300k+ LOC production codebases using "frequent intentional compaction" and context engineering techniques. (Dex Horthy, HumanLayer)
 - **[AI and Junior Developers: Why the Job Will Change But Not Disappear](https://charlesanthonybrowne.medium.com/ai-and-junior-developers-why-the-job-will-change-but-not-disappear-95545e29e820)** - Historical analysis comparing AI's impact on junior developers to Engels' Pause during the Industrial Revolution, with practical advice for engineers at all levels. (Charles Anthony Browne)
+- **[Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)** - Practitioner insights on managing 3-8 concurrent AI-assisted projects, multi-machine workflows, and why "most software does not require hard thinking." (Peter Steinberger)
 <!-- /VIDEOS:ai-mindset -->
 
 ### Experimental & Research

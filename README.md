@@ -19,6 +19,7 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 - **[Deep Agents](tools/deep-agents.md)** - Open-source agent framework with planning, sub-agents, and MCP integration ([GitHub](https://github.com/langchain-ai/deepagents))
 - **[HumanLayer SDK](tools/humanlayer-sdk.md)** - API and SDK for human-in-the-loop approval workflows in AI agent systems ([GitHub](https://github.com/humanlayer/humanlayer))
 - **[LangGraph](tools/langgraph.md)** - Framework for building stateful, multi-actor AI agents with cyclic workflows and human-in-the-loop support ([GitHub](https://github.com/langchain-ai/langgraph))
+- **[Mem0](tools/mem0.md)** - Intelligent memory layer enabling AI agents to remember user preferences and learn continuously ([GitHub](https://github.com/mem0ai/mem0))
 <!-- /TOOLS:agent-frameworks -->
 
 ### AI Platforms & Hubs

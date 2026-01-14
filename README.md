@@ -85,6 +85,7 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 
 <!-- TOOLS:claude-code -->
 - **[Claude Code Plugins](tools/claude-code-plugins.md)** - Official plugin system for extending Claude Code with commands, agents, skills, and MCP servers ([Docs](https://code.claude.com/docs/en/plugins))
+- **[Ralph Loop](tools/ralph-loop.md)** - Self-referential AI loop enabling Claude Code to autonomously iterate on tasks until completion ([GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop))
 - **[Superpowers](tools/superpowers.md)** - Skills framework enabling structured TDD workflows and extended autonomous development sessions ([GitHub](https://github.com/obra/superpowers))
 - **[Claude Code Sandboxing](tools/claude-code-sandboxing.md)** - Built-in filesystem and network isolation for safer autonomous AI agent execution ([Docs](https://code.claude.com/docs/en/sandboxing))
 - **[Claude Code Tresor](tools/claude-code-tresor.md)** - Collection of 141 professional-grade agents, skills, and commands for Claude Code ([GitHub](https://github.com/alirezarezvani/claude-code-tresor))

@@ -85,6 +85,7 @@ Tools for creating, testing, managing, and optimizing prompts.
 Tools, extensions, and utilities specifically designed for Claude Code.
 
 <!-- TOOLS:claude-code -->
+- **[Beads](tools/beads.md)** - Git-backed distributed graph issue tracker providing persistent memory and task dependencies for AI agents ([GitHub](https://github.com/steveyegge/beads))
 - **[Claude Code Plugins](tools/claude-code-plugins.md)** - Official plugin system for extending Claude Code with commands, agents, skills, and MCP servers ([Docs](https://code.claude.com/docs/en/plugins))
 - **[Ralph Loop](tools/ralph-loop.md)** - Self-referential AI loop enabling Claude Code to autonomously iterate on tasks until completion ([GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop))
 - **[Superpowers](tools/superpowers.md)** - Skills framework enabling structured TDD workflows and extended autonomous development sessions ([GitHub](https://github.com/obra/superpowers))

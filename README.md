@@ -22,6 +22,14 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 - **[Mem0](tools/mem0.md)** - Intelligent memory layer enabling AI agents to remember user preferences and learn continuously ([GitHub](https://github.com/mem0ai/mem0))
 <!-- /TOOLS:agent-frameworks -->
 
+### AI IDEs & Editors
+
+AI-powered integrated development environments and code editors with autonomous coding capabilities.
+
+<!-- TOOLS:ai-ides-editors -->
+- **[Google Antigravity](tools/google-antigravity.md)** - Agentic IDE powered by Gemini 3 that autonomously executes multi-step coding tasks ([Website](https://www.index.dev/blog/google-antigravity-agentic-ide))
+<!-- /TOOLS:ai-ides-editors -->
+
 ### AI Platforms & Hubs
 
 Central platforms for AI model discovery, sharing, and collaboration.

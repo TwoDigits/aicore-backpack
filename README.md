@@ -28,6 +28,7 @@ AI-powered integrated development environments and code editors with autonomous 
 
 <!-- TOOLS:ai-ides-editors -->
 - **[Cline](tools/cline.md)** - Open-source autonomous AI coding agent — plug in any model, works across VS Code, JetBrains, Cursor, and Windsurf ([Website](https://cline.bot))
+- **[Codex CLI](tools/codex-cli.md)** - OpenAI's open-source terminal coding agent that autonomously reads, edits, and runs code with MCP and multi-agent support ([GitHub](https://github.com/openai/codex))
 - **[Google Antigravity](tools/google-antigravity.md)** - Agentic IDE powered by Gemini 3 that autonomously executes multi-step coding tasks ([Website](https://www.index.dev/blog/google-antigravity-agentic-ide))
 - **[Kiro](tools/kiro.md)** - Spec-driven agentic IDE that structures requirements and design before generating code, with CLI and agent hooks ([Website](https://kiro.dev))
 <!-- /TOOLS:ai-ides-editors -->

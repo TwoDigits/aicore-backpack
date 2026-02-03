@@ -27,6 +27,7 @@ Frameworks and libraries for building AI agents with planning, delegation, and a
 AI-powered integrated development environments and code editors with autonomous coding capabilities.
 
 <!-- TOOLS:ai-ides-editors -->
+- **[Cline](tools/cline.md)** - Open-source autonomous AI coding agent — plug in any model, works across VS Code, JetBrains, Cursor, and Windsurf ([Website](https://cline.bot))
 - **[Google Antigravity](tools/google-antigravity.md)** - Agentic IDE powered by Gemini 3 that autonomously executes multi-step coding tasks ([Website](https://www.index.dev/blog/google-antigravity-agentic-ide))
 <!-- /TOOLS:ai-ides-editors -->
 

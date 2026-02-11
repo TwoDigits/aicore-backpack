@@ -139,6 +139,7 @@ Videos, talks, and resources about AI mindset, ROI measurement, and successful A
 - **[No Vibes Allowed: Solving Hard Problems in Complex Codebases](https://www.youtube.com/watch?v=rmvDxxNubIg)** - How to use AI coding agents effectively in 300k+ LOC production codebases using "frequent intentional compaction" and context engineering techniques. (Dex Horthy, HumanLayer)
 - **[AI and Junior Developers: Why the Job Will Change But Not Disappear](https://charlesanthonybrowne.medium.com/ai-and-junior-developers-why-the-job-will-change-but-not-disappear-95545e29e820)** - Historical analysis comparing AI's impact on junior developers to Engels' Pause during the Industrial Revolution, with practical advice for engineers at all levels. (Charles Anthony Browne)
 - **[Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)** - Practitioner insights on managing 3-8 concurrent AI-assisted projects, multi-machine workflows, and why "most software does not require hard thinking." (Peter Steinberger)
+- **[AI Doesn't Reduce Work — It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)** - Eight-month ethnographic study at a 200-person tech company reveals AI causes task expansion, blurred work-life boundaries, and unsustainable multitasking — with an "AI Practice" framework to counter it. (Aruna Ranganathan & Xingqi Maggie Ye, UC Berkeley Haas)
 <!-- /VIDEOS:ai-mindset -->
 
 ### Experimental & Research

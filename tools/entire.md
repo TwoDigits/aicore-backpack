@@ -5,7 +5,7 @@
 - **URL**: https://entire.io/
 - **GitHub**: https://github.com/entireio/cli
 - **License**: MIT
-- **Category**: Methodologies & Approaches
+- **Category**: Observability
 
 ## Description
 

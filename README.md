@@ -68,6 +68,8 @@ Model Context Protocol servers, integrations, and extensions for Claude and othe
 Tools for monitoring, tracing, and debugging LLM applications and AI agents.
 
 <!-- TOOLS:observability -->
+- **[Claude Trace](tools/claude-trace.md)** - Logging and visualization tool that records all Claude Code interactions including hidden prompts and thinking blocks ([GitHub](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace))
+- **[Entire](tools/entire.md)** - Captures AI agent sessions as searchable checkpoints on every Git push for auditable, reproducible AI-assisted development ([GitHub](https://github.com/entireio/cli))
 - **[LangSmith](tools/langsmith.md)** - Observability platform for debugging, monitoring, and understanding LLM application behavior ([Website](https://www.langchain.com/langsmith))
 <!-- /TOOLS:observability -->
 
@@ -82,7 +84,6 @@ Structured methodologies and frameworks for AI-assisted software development.
 - **[Long-Running Agent Harness](tools/long-running-agent-harness.md)** - Methodology for AI agents to work across multiple context windows with progress tracking ([Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents))
 - **[Spec Kit](tools/spec-kit.md)** - Spec-driven development toolkit where specifications become executable implementations ([GitHub](https://github.com/github/spec-kit))
 - **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Reference patterns for making 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
-- **[Entire](tools/entire.md)** - Developer platform that captures AI agent sessions as searchable checkpoints on every Git push ([GitHub](https://github.com/entireio/cli))
 <!-- /TOOLS:methodologies -->
 
 ### Prompt Engineering & Management
@@ -98,13 +99,13 @@ Tools for creating, testing, managing, and optimizing prompts.
 Tools, extensions, and utilities specifically designed for Claude Code.
 
 <!-- TOOLS:claude-code -->
+- **[Agent Teams](tools/claude-code-agent-teams.md)** - Built-in multi-agent orchestration coordinating multiple Claude Code sessions with shared tasks and inter-agent messaging ([Docs](https://code.claude.com/docs/en/agent-teams))
 - **[Beads](tools/beads.md)** - Git-backed distributed graph issue tracker providing persistent memory and task dependencies for AI agents ([GitHub](https://github.com/steveyegge/beads))
 - **[Claude Code Plugins](tools/claude-code-plugins.md)** - Official plugin system for extending Claude Code with commands, agents, skills, and MCP servers ([Docs](https://code.claude.com/docs/en/plugins))
 - **[Ralph Loop](tools/ralph-loop.md)** - Self-referential AI loop enabling Claude Code to autonomously iterate on tasks until completion ([GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop))
 - **[Superpowers](tools/superpowers.md)** - Skills framework enabling structured TDD workflows and extended autonomous development sessions ([GitHub](https://github.com/obra/superpowers))
 - **[Claude Code Sandboxing](tools/claude-code-sandboxing.md)** - Built-in filesystem and network isolation for safer autonomous AI agent execution ([Docs](https://code.claude.com/docs/en/sandboxing))
 - **[Claude Code Tresor](tools/claude-code-tresor.md)** - Collection of 141 professional-grade agents, skills, and commands for Claude Code ([GitHub](https://github.com/alirezarezvani/claude-code-tresor))
-- **[Claude Trace](tools/claude-trace.md)** - Logging and visualization tool that records all Claude Code interactions ([GitHub](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace))
 - **[CodeLayer](tools/codelayer.md)** - Open-source IDE built on Claude Code for orchestrating AI coding agents in complex codebases ([Website](https://www.humanlayer.dev/))
 - **[Happy Coder](tools/happy-coder.md)** - Mobile and web client for remote access to Claude Code with end-to-end encryption ([GitHub](https://github.com/slopus/happy))
 - **[Hugging Face Skills](tools/huggingface-skills.md)** - LLM fine-tuning through natural language commands in coding agents ([Blog](https://huggingface.co/blog/hf-skills-training))
@@ -112,6 +113,14 @@ Tools, extensions, and utilities specifically designed for Claude Code.
 - **[TACHES CC Resources](tools/taches-cc-resources.md)** - 27 commands, 7 skills, and 3 agents for structured AI-assisted development workflows ([GitHub](https://github.com/glittercowboy/taches-cc-resources))
 - **[The Definitive Guide to Claude Code](https://jpcaparas.medium.com/the-definitive-guide-to-claude-code-from-first-install-to-production-workflows-6d37a6d33e40)** - Comprehensive practitioner's guide covering installation, the Explore-Plan-Code-Commit workflow, context engineering with CLAUDE.md, and production patterns. (JP Caparas)
 <!-- /TOOLS:claude-code -->
+
+### GitHub Copilot
+
+Tools, extensions, and features specifically for GitHub Copilot.
+
+<!-- TOOLS:github-copilot -->
+- **[Copilot Cross-Agent Memory](tools/copilot-cross-agent-memory.md)** - Agentic memory system that lets Copilot agents remember and learn across coding, code review, and CLI sessions ([Blog](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/))
+<!-- /TOOLS:github-copilot -->
 
 ### Documentation & Knowledge
 

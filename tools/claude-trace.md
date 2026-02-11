@@ -5,7 +5,7 @@
 - **URL**: https://github.com/badlogic/lemmy/tree/main/apps/claude-trace
 - **GitHub**: https://github.com/badlogic/lemmy
 - **License**: MIT
-- **Category**: Claude Code
+- **Category**: Observability
 
 ## Description
 

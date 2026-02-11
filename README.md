@@ -82,6 +82,7 @@ Structured methodologies and frameworks for AI-assisted software development.
 - **[Long-Running Agent Harness](tools/long-running-agent-harness.md)** - Methodology for AI agents to work across multiple context windows with progress tracking ([Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents))
 - **[Spec Kit](tools/spec-kit.md)** - Spec-driven development toolkit where specifications become executable implementations ([GitHub](https://github.com/github/spec-kit))
 - **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Reference patterns for making 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
+- **[Entire](tools/entire.md)** - Developer platform that captures AI agent sessions as searchable checkpoints on every Git push ([GitHub](https://github.com/entireio/cli))
 <!-- /TOOLS:methodologies -->
 
 ### Prompt Engineering & Management

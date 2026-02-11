@@ -86,6 +86,14 @@ Structured methodologies and frameworks for AI-assisted software development.
 - **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Reference patterns for making 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
 <!-- /TOOLS:methodologies -->
 
+### Personal AI Assistants
+
+AI assistants for personal productivity, task automation, and daily life management.
+
+<!-- TOOLS:personal-ai-assistants -->
+- **[OpenClaw](tools/openclaw.md)** - Open-source personal AI assistant with 50+ integrations, persistent memory, and self-extending skills — runs locally via WhatsApp, Telegram, or Slack ([GitHub](https://github.com/openclaw/openclaw))
+<!-- /TOOLS:personal-ai-assistants -->
+
 ### Prompt Engineering & Management
 
 Tools for creating, testing, managing, and optimizing prompts.

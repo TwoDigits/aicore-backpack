@@ -14,6 +14,7 @@ AICore Backpack is a curated collection of cool AI tools, extensions, and open-s
 │   └── [tool-name].md           # Individual tool documentation
 └── .claude/commands/            # Custom Claude Code commands
     ├── add-tool.md              # Command to add new tools
+    ├── discover-tools.md        # Command to discover new tools via research agents
     └── reorganize-categories.md # Command to reorganize categories
 ```
 
@@ -26,6 +27,16 @@ Adds a new tool to the curated list:
 2. Creates documentation in `tools/[tool-name].md`
 3. Categorizes and adds entry to README.md
 4. Prompts for category selection if unclear
+
+### `/discover-tools`
+
+Discovers new AI tools via parallel research agents:
+1. Reads existing tools to build an exclusion list
+2. Launches 8 parallel sub-agents, each covering a different research angle (IDEs, frameworks, MCP, methodologies, open-source, Claude Code/Copilot, observability, trending)
+3. Deduplicates and ranks findings by confidence
+4. Presents a curated summary grouped by category
+5. Lets the user multi-select which tools to add
+6. Adds selected tools via `/add-tool`
 
 ### `/reorganize-categories`
 

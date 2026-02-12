@@ -81,6 +81,7 @@ Structured methodologies and frameworks for AI-assisted software development.
 - **[12-Factor Agents](tools/12-factor-agents.md)** - Design principles for building reliable, production-ready LLM-powered applications ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - **[Agent OS](tools/agent-os.md)** - Structured specifications and workflows that transform AI coding agents into productive developers ([GitHub](https://github.com/buildermethods/agent-os))
 - **[BMad Method](tools/bmad-method.md)** - AI-driven agile framework with specialized agents for development workflows ([GitHub](https://github.com/bmad-code-org/BMAD-METHOD))
+- **[Harness Engineering](tools/harness-engineering.md)** - OpenAI's agent-first methodology where engineers design environments and feedback loops instead of writing code, producing 1M lines with 3 engineers ([Article](https://openai.com/index/harness-engineering/))
 - **[Long-Running Agent Harness](tools/long-running-agent-harness.md)** - Methodology for AI agents to work across multiple context windows with progress tracking ([Article](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents))
 - **[Spec Kit](tools/spec-kit.md)** - Spec-driven development toolkit where specifications become executable implementations ([GitHub](https://github.com/github/spec-kit))
 - **[Tomcat AI-Enabled](tools/tomcat-ai-enabled.md)** - Reference patterns for making 726K+ LOC codebases AI-navigable with specialized agents and MCP integration ([GitHub](https://github.com/thorstenmaier/tomcat-ai-enabled))
